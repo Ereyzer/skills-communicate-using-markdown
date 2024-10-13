@@ -8,7 +8,7 @@ char my_string = "Hello, world"
  "\\!\\[.*\\]\\(.*\\)"
 ```
 
-\!\[JavaScript\]\(https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true\)
+![JavaScript](https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true)
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
