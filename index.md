@@ -7,7 +7,8 @@ char my_string = "Hello, world"
 ```regexp
  "\\!\\[.*\\]\\(.*\\)"
 ```
-\!\\\\
+
+\!\.\\....\
 
 ![JavaScript](https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true)
 ```
